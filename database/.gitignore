@@ -1,1 +1,24 @@
+<<<<<<< HEAD
 *.sqlite*
+=======
+# Laravel directories and files to ignore
+#/vendor
+#/node_modules
+#/public/storage
+#/storage/*.key
+/storage/*.log
+#.env
+.phpunit.result.cache
+Homestead.yaml
+Homestead.json
+
+# Docker and build artifacts
+docker-compose.override.yml
+/storage/oauth-private.key
+/storage/oauth-public.key
+#/storage/*.sqlite
+/storage/logs/*.log
+#*.sql
+#.DS_Store
+#Thumbs.db
+>>>>>>> e5424ca (minor fixed)
