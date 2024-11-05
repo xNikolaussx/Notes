@@ -1,0 +1,26 @@
+{
+  "_bootstrap-cdac73cb.js": {
+    "file": "assets/bootstrap-cdac73cb.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-f433411c.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-89cda704.js",
+    "imports": [
+      "_bootstrap-cdac73cb.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/create.js": {
+    "file": "assets/create-bf552eee.js",
+    "imports": [
+      "_bootstrap-cdac73cb.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/create.js"
+  }
+}
